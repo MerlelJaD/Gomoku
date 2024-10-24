@@ -16,3 +16,14 @@ The project is designed to be played on an 8x8 grid, and the goal is to be the f
 - **Save and Load Game**: The game can be saved to a file and loaded to continue playing at a later time.
 - **Artificial Intelligence (AI)**: The computer opponent uses a basic AI to challenge players.
 
+## Game Rules
+
+- Players take turns placing their pieces on the grid.
+- The first player to get five of their pieces in a row (either horizontally, vertically, or diagonally) wins.
+- The game can be saved and loaded from a file.
+
+## Future Improvements
+
+- Enhance AI to make it more challenging.
+- Add a graphical interface for the game.
+- Implement different grid sizes.
