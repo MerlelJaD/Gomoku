@@ -16,9 +16,3 @@ The project is designed to be played on an 8x8 grid, and the goal is to be the f
 - **Save and Load Game**: The game can be saved to a file and loaded to continue playing at a later time.
 - **Artificial Intelligence (AI)**: The computer opponent uses a basic AI to challenge players.
 
-## How to Run the Game
-
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/gomoku.git
-   cd gomoku
